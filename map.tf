@@ -17,7 +17,7 @@ variable "mapping" {
 
 variable "zone" {
   default = {
-  us-east-1 = "us-east-1c"
+  us-east-1 = "us-east-1a"
   us-east-2 = "us-east-2c"
   ap-south-1 = "ap-south-1b"  
 }
